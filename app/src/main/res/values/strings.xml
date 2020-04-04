@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meal Suggestor</string>
+    <string name="titleText">Unable to decide where to eat?</string>
+    <string name="foodImage">Food image</string>
+    <string name="inputText">Input new food place</string>
+    <string name="enterButton">INPUT</string>
+    <string name="displayButton">DECIDE</string>
+    <string name="deleteButton">Delete current item</string>
+</resources>
